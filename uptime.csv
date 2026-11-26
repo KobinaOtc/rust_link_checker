@@ -1,0 +1,5 @@
+url,status,duration_ms,is_ok
+https://httpbin.org/delay/6,TIMEOUT,5002,false
+https://httpbin.org/status/404,404,914,false
+https://example.com/,200,90,true
+https://httpbin.org/status/200,200,907,true
