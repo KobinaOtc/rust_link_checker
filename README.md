@@ -6,7 +6,7 @@ The **Concurrent Website Link Checker & Uptime Monitor** is a fast, lightweight 
 
 My purpose in creating this software was to move beyond basic syntax and solve a practical web reliability problem while mastering core Rust concepts—specifically `async`/`await` task spawning, shared state across threads with `Arc` and `Semaphore`, HTML parsing, URL resolution, and structured error handling using `Result` and `Option`.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/0XtD8vp2sp8)
 
 # Development Environment
 
